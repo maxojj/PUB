@@ -188,9 +188,9 @@
                 "mtime": "Wed Jan 11 2017 10:45:27 GMT+0800 (CST)"
             },
             {
-                "name": "me.jpg",
+                "name": "me.png",
                 "type": "file-img",
-                "path": "./public/database/share/me.jpg",
+                "path": "./public/database/share/me.png",
                 "size": 98637,
                 "mtime": "Wed Jan 11 2017 10:45:29 GMT+0800 (CST)"
             }
