@@ -6,13 +6,6 @@
         "mtime": "Tue Feb 07 2017 22:25:29 GMT+0800 (CST)",
         "files": [
             {
-                "name": ".DS_Store",
-                "type": "file-other",
-                "path": "./public/database/share/.DS_Store",
-                "size": 6148,
-                "mtime": "Tue Feb 07 2017 22:25:34 GMT+0800 (CST)"
-            },
-            {
                 "name": "喰种0.jpg",
                 "type": "file-img",
                 "path": "./public/database/share/喰种0.jpg",
